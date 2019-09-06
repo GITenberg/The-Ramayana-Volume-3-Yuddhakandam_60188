@@ -1,5 +1,5 @@
 _repo: The-Ramayana-Volume-3-Yuddhakandam_60188
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Dutt, Manmatha Nath
@@ -10,6 +10,9 @@ contributor:
     - Shastri, Manmatha Nath Dutt
     gutenberg_agent_id: '49280'
     url: http://www.gutenberg.org/2009/agents/49280
+covers:
+- cover_type: archival
+  image_path: 60188-h/images/ramayana_cover.jpg
 creator:
   author:
     agent_name: Valmiki
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7984
     wikipedia: http://en.wikipedia.org/wiki/Valmiki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60188#The-Ramayana-Volume-3-Yuddhakandam
 gutenberg_issued: '2019-08-26'
 gutenberg_type: Text
 identifiers:
